@@ -1,0 +1,9 @@
+*.chk
+*.out
+*.mol
+.Trash/*
+__pycache__/
+Multiwfn_desc/
+Multiwfn_desc_origin/
+Gauss_Calcs/
+Gauss_Calcs_origin/

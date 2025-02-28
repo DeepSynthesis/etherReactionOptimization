@@ -1,0 +1,15 @@
+SMILES,Molecule,Stage1,Stage2,Stage3
+CC(C)(C)c1cc2c(c(C(C)(C)C)c1)O[Co]13<-N(=C2)CCN->1=Cc1cc(C(C)(C)C)cc(C(C)(C)C)c1O3,[Co]-1,TRUE,TRUE,TRUE
+CC(C)(C)c1cc2c(c(C(C)(C)C)c1)O[Co]13<-N(=C2)CCCN->1=Cc1cc(C(C)(C)C)cc(C(C)(C)C)c1O3,[Co]-2,TRUE,TRUE,TRUE
+CC(C)(C)c1cc2c(c(C(C)(C)C)c1)O[Co]13<-N(=C2)c2ccccc2N->1=Cc1cc(C(C)(C)C)cc(C(C)(C)C)c1O3,[Co]-3,TRUE,TRUE,TRUE
+CC(C)(C)c1cc2c(c(C(C)(C)C)c1)O[Co]13<-N(=C2)C(C)(C)C(C)(C)N->1=Cc1cc(C(C)(C)C)cc(C(C)(C)C)c1O3,[Co]-4,TRUE,TRUE,TRUE
+CC(C)(C)c1cc2c(c(C(C)(C)C)c1)O[Co]13<-N(=C2)[C@H](c2ccccc2)[C@@H](c2ccccc2)N->1=Cc1cc(C(C)(C)C)cc(C(C)(C)C)c1O3,[Co]-5,TRUE,TRUE,TRUE
+O=[N+]([O-])c1ccc2c(c1)C=N1->[Co]3(<-N(=Cc4cc([N+](=O)[O-])ccc4O3)CC1)O2,[Co]-6,TRUE,TRUE,TRUE
+Clc1cc(Cl)c2c(c1)C=N1->[Co]3(<-N(=Cc4cc(Cl)cc(Cl)c4O3)CC1)O2,[Co]-7,TRUE,TRUE,TRUE
+C1=N2->[Co]3(<-N(=Cc4cc5ccccc5cc4O3)CC2)Oc2cc3ccccc3cc21,[Co]-8,TRUE,TRUE,TRUE
+COc1cc2c(c(C(C)(C)C)c1)O[Co]13<-N(=C2)CCN->1=Cc1cc(OC)cc(C(C)(C)C)c1O3,[Co]-9,TRUE,TRUE,TRUE
+F[P-](F)(F)(F)(F)F.F[P-](F)(F)(F)(F)F.[Co+2].c1ccc(-c2ccccn2)nc1.c1ccc(-c2ccccn2)nc1.c1ccc(-c2ccccn2)nc1,[Co]-10,TRUE,TRUE,TRUE
+Cl[Co]1(Cl)[P](c2ccccc2)(c2ccccc2)CC[P]1(c1ccccc1)c1ccccc1,[Co]-11,TRUE,TRUE,TRUE
+Cl[Co]Cl,[Co]-12,TRUE,TRUE,FALSE
+Cl[Mn]1n2c3ccc2/C(c2ccccc2)=C2/C=CC(=N2)/C(c2ccccc2)=c2/cc/c(n21)=C(\c1ccccc1)C1=N/C(=C\3c2ccccc2)C=C1,[Mn]-1,TRUE,TRUE,TRUE
+CC(C)(C)c1cc2c(c(C(C)(C)C)c1)O[Mn]13(Cl)<-N(=C2)[C@@H]2CCCC[C@H]2N->1=Cc1cc(C(C)(C)C)cc(C(C)(C)C)c1O3,[Mn]-2,TRUE,TRUE,TRUE

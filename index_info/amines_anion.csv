@@ -1,0 +1,5 @@
+index,amine_anion_smiles,atoms_list,prop
+0,O=S(=O)([O-])C(F)(F)F,"[4]","(-1,1)"
+15,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F,"[4]","(-1,1)"
+17,O=C([O-])C(F)(F)F,"[3]","(-1,1)"
+23,CC(=O)[O-],"[4]","(-1,1)"
