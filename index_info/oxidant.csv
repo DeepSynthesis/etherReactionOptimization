@@ -1,0 +1,11 @@
+smiles,prop
+F[N+]1=C(C)C=C(C)C=C1C,"(1,1)"
+F[N+]1=CC=CC=C1,"(1,1)"
+O=S([O-])(OOS(=O)([O-])=O)=O,"(-2,1)"
+O=I(C1=CC=CC=C1C(O)=O)=O,"(0,1)"
+O=IC1=CC=CC=C1,"(0,1)"
+O=C1OI(C2=CC=CC=C21)O,"(0,1)"
+O=S(OO)([O-])=O,"(-1,1)"
+O=C(N1Cl)CCC1=O,"(0,1)"
+F[N+]12CC[N+](CC2)(CCl)CC1,"(2,1)"
+O=C(C1=C(C2=O)C=CC=C1)N2Cl,"(0,1)"

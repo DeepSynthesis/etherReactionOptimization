@@ -1,0 +1,11 @@
+SMILES,Molecule,Stage1,Stage2,Stage3
+ClCCl,DCM,True,True,True
+CC#N,CH3CN,True,True,True
+Cc1ccccc1,Toluene,True,True,False
+ClCCCl,DCE,True,True,True
+ClC(Cl)Cl,Chloroform,True,True,True
+C1CCOC1,THF,True,True,False
+CCOCC,Ether,True,True,False
+CN(C)C=O,DMF,True,True,False
+CS(C)=O,DMSO,True,True,False
+OC(C(F)(F)F)C(F)(F)F,HFIP,True,True,False

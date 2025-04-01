@@ -1,0 +1,15 @@
+SMILES,Molecule,Stage1,Stage2,Stage3
+O=C([O-])O.[K+],KHCO3,True,True,True
+O=C([O-])O.[Na+],NaHCO3,True,False,False
+O=C([O-])[O-].[Na+].[Na+],Na2CO3,True,False,False
+O=C([O-])[O-].[K+].[K+],K2CO3,True,True,True
+O=P([O-])(O)O.[K+],KH2PO4,True,True,True
+O=P([O-])([O-])[O-].[K+].[K+].[K+],K3PO4,True,True,True
+O=C([O-])[O-].[Cs+].[Cs+],Cs2CO3,True,False,False
+C1CN2CCN1CC2,DABCO,True,True,True
+CN(C)c1ccncc1,DMAP,True,True,True
+c1ccncc1,pyridine,True,True,True
+CC(=O)O,acetic acid,True,True,True
+C1CCC2=NCCCN2CC1,DBU,True,True,True
+O=C(O)c1ccccc1,benzoic acid,True,True,True
+None,None,True,False,True

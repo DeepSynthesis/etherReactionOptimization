@@ -1,0 +1,7 @@
+NAME,amine,cobalt,oxidant,alkali,solvent
+TYPE,DATA,DATA,DATA,DATA,DATA
+860,CC(C)(C)NC[C@@H]([NH3+])C(C)(C)C.O=S(=O)([O-])C(F)(F)F,Co-9,F[n+]1ccccc1,O=C([O-])O,ClC(Cl)Cl
+15795,O=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[NH3+][C@@H]1CCCC[C@H]1N(Cc1ccccc1)Cc1ccccc1,Co-5,Cc1cc(C)[n+](F)c(C)c1,c1ccncc1,ClC(Cl)Cl
+57424,CN(C[C@@H]([NH3+])C(C)(C)C)c1ccncc1.O=S(=O)([O-])C(F)(F)F,Co-6,Cc1cc(C)[n+](F)c(C)c1,O=C([O-])O,ClCCl
+57704,CN(C[C@@H]([NH3+])C(C)(C)C)c1ccncc1.O=S(=O)([O-])C(F)(F)F,Mn-2,Cc1cc(C)[n+](F)c(C)c1,O=C([O-])O,ClCCl
+103696,C[C@@H]1CN(C[C@@H]([NH3+])C(C)(C)C)C[C@H](C)O1.O=S(=O)([O-])C(F)(F)F,Co-6,O=C1c2ccccc2C(=O)N1Cl,c1ccncc1,CC#N
